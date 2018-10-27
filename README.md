@@ -1,7 +1,12 @@
+
+---
+
 # In Progress
-# Mission 27/10/18
+## Mission 27/10/18
 Modify codes to allow facebook, linkedin etc page links and block 
 companyhouse, etc sites.
+
+---
 # Done
 ## Mission 23/10/18
  INPUT: 3000sicwise data
