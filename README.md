@@ -2,12 +2,15 @@
 ---
 
 # In Progress
-## Mission 27/10/18
-Modify codes to allow facebook, linkedin etc page links and block 
-companyhouse, etc sites.
+## Mission 29/10/18
+Catastrophic failure on the results of 27/10/18. Solve them ASAP.
 
 ---
 # Done
+## Mission 27/10/18
+Modify codes of 23/10/18 to allow facebook, linkedin etc page links and block 
+companyhouse, etc sites.
+
 ## Mission 23/10/18
  INPUT: 3000sicwise data
 
